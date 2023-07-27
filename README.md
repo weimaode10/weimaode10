@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @weimaode10
+- 👀 I’m interested in Ruby. I’m currently learning Ruby.
+- 🌱 Computer Science student with a keen interest in Ruby. 
+- 💞️ Excited to contribute to open-source projects and enhance my coding skills.
